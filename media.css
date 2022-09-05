@@ -243,7 +243,7 @@
      /* media query of section-3 */
      .section3 {
           width: 100%;
-          height: 40vh;
+          height: 45vh;
           background-size: 400px;
      }
 
@@ -433,9 +433,9 @@
      }
 
      .imagesection11 h3 {
-          font-size: 9px;
+          font-size: 7px;
           position: relative;
-          left: 50%;
+          left: 49%;
           top: 20%;
      }
 
